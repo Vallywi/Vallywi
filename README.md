@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is JECYN VALLIRIE TURBANOS
 ================================================================================================================================================
 
-FUTURE FULL STACK DEVELOPER
+FUTURE FULL STACK DEVELOPER 
 ---------------------------
 
-A dedicated learner focused on coding, logic, and continuous improvement in software development.
+A dedicated learner focused on dream for coding, logic, and continuous improvement in software development.
 
 * 🌍  I'm based in Philippines
 * ✉️  You can contact me at [jecynvallirieturbanos@gmail.com](mailto:jecynvallirieturbanos@gmail.com)
