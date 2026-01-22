@@ -8,7 +8,7 @@ A dedicated learner focused on dream for coding, logic, and continuous improveme
 
 * 🌍  I'm based in Philippines
 * ✉️  You can contact me at [jecynvallirieturbanos@gmail.com](mailto:jecynvallirieturbanos@gmail.com)
-* 🧠  I'm currently learning A LOT
+* 🧠  I'm currently learning EVERYTHING
 * 👥  I'm looking to collaborate on everyone
 
 <p align="left">
